@@ -59,13 +59,16 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
+      name: Spanish
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Italian
+      proficiency: Limit
+    - language4:
+      name: French
       proficiency: Limit
   programmingSkills:
     - skill1:
