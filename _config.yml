@@ -89,10 +89,10 @@ author:
     - skill6:
       name: GitHub
       percentage: 80%
-          - skill7:
+    - skill7:
       name: Ruby
       percentage: 50%
-          - skill8:
+    - skill8:
       name: PHP
       percentage: 50%
     - skill9:
@@ -101,19 +101,19 @@ author:
     - skill10:
       name: PostgreSQL
       percentage: 60%
-      - skill11:
+    - skill11:
       name: AngularJS
       percentage: 30%
-      - skill12:
+    - skill12:
       name: MySQL/SQL/MongoDB/NoSQL
       percentage: 60%
-      - skill13:
+    - skill13:
       name: XML
       percentage: 50%
-      - skill14:
+    - skill14:
       name: Shell Scripting
       percentage: 65%
-      - skill15:
+    - skill15:
       name: Bootstrap
       percentage: 40%
       # - skill16:
