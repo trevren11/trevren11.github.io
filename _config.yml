@@ -5,7 +5,7 @@ favicon: /assets/img/avatar.JPG
 baseurl: https://trevren11.github.io/
 url: https://trevren11.github.io/
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-81737450-1
 
 # Build settings
 markdown: kramdown
@@ -48,6 +48,35 @@ author:
       started: 2015
       duration: (2015 - Present)
       description: Build professional websites for various clients. Past clients/projects include making a booking and reservation website for the largest log cabin in the US a landing page for a professional wrestler a reception rental website and a landing page for a clothing store.
+    - work4:
+      company: Entrepreneur
+      location: Provo, Utah
+      title: Owner
+      started: 2014
+      duration: (2014 - Present)
+      description: I have bought and sold several websites and Android apps, netting me over $4,500. I am currently working on several Android application ideas, the current focus being a dinner planning app that integrates Firebase for authentication, database, analytics and crash/bug reporting. I have one Android app currently on the Play store with several others made.
+    - work5:
+      company: Vantage Controls
+      location: Orem, Utah
+      title: Driver Developer Intern
+      started: 2015
+      duration: (2015 - 2015)
+      description: Developed and tested drivers for luxury home automation system. Programmed in PAWN/Small. Designed exception handling concept.
+    - work6:
+      company: EdgeCreek
+      location: Orem, Utah
+      title: Accountant
+      started: 2014
+      duration: (2014 - 2014)
+      description: Managed the accounts for ~15 properties as well as the personal finances of the billionaire CEO. Accounts payable and credit card responsibilities.
+    - work7:
+      company: Costco Wholesale
+      location: Des Moines, Iowa
+      title: Membership
+      started: 2010
+      duration: (2010 - 2011)
+      description: Managed returns, processed credit card signups for new and existing members.
+
   educationHistory:
     - education1:
       organization: Brigham Young University
@@ -57,6 +86,7 @@ author:
       started: 2011
       duration: (2011 - 2017)
       description: Data Structures, Digital Systems, Digital Logic, Probability Theory, Circuits, CAD
+
   languages:
     - language1:
       name: English
@@ -70,6 +100,7 @@ author:
     - language4:
       name: French
       proficiency: Limit
+
   programmingSkills:
     - skill1:
       name: HTML5
@@ -134,5 +165,6 @@ author:
       # Redis security
       # SCRUM/Agile workflow
 
-
-
+      # Awards Eagle Scout
+      # Organizations
+      # Chile
