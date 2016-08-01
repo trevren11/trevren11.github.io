@@ -2,8 +2,8 @@
 title: Trevor Renshaw's CV
 description: Trevor Renshaw's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://trevren11.github.io/
+url: https://trevren11.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -30,24 +30,24 @@ author:
     - work1:
       company: Instructure
       location: Holladay, Utah
-      title: Java Developer
+      title: Software Engineer Intern in Test
       started: 2016
-      duration: (2016 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2016 - 2016)
+      description: Write software tests for Andriod and iOS platforms.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Brigham Young University
+      location: Provo, Utah
+      title: Computer Programmer
+      started: 2014
+      duration: (2014 - Present)
+      description: Part of a team that worked on language learning software. Vocal recognition in the browser. Built an inventory website from the ground up and help manage a proprietary video streaming service.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Freelance Developer
+      location: Provo, Utah
+      title: Website Designer
+      started: 2015
+      duration: (2015 - Present)
+      description: Build professional websites for various clients. Past clients/projects include making a booking and reservation website for the largest log cabin in the US a landing page for a professional wrestler a reception rental website and a landing page for a clothing store.
   educationHistory:
     - education1:
       organization: Brigham Young University
