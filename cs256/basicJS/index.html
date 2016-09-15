@@ -1,6 +1,6 @@
 <head>
     <style>
-        button {
+        div {
             background: #f1e2c5;
             margin: 1em;
             padding: 1em;
@@ -10,13 +10,15 @@
             border-color: red;
             box-shadow: 6px 6px 10px grey;
             border-style:solid;
+            display:block;
+            float:left;
         }
         
-        button:hover {
+        div:hover {
             box-shadow: 6px 6px grey;
         }
         
-        button:active {
+        div:active {
             box-shadow: inherit;
             position: relative;
             top: 3px;
@@ -27,19 +29,22 @@
             background-color: #f1e2c5;
         }
         
-        p {}
+        p {
+            margin:3em;
+            font-size:1.5em;
+        }
     </style>
 
 </head>
 
 <body>
     <h1>Testing JavaScript</h1>
-    <div style="display:inline">
-        <button onclick="red()">Red Times</button>
-        <button onclick="green()">Green</button>
-        <button onclick="blue()">Blue Arial</button>
-        <button onclick="black()">Black Hello</button>
-    </div>
+    <section style="display:inline">
+        <div onclick="red()">Red Times</div>
+        <div onclick="green()">Green</div>
+        <div onclick="blue()">Blue Arial</div>
+        <div onclick="black()">Black Hello</div>
+    </section>
 
     <p id=info>Interesting Information</p>
 
