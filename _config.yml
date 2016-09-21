@@ -47,14 +47,14 @@ author:
       title: Website Designer
       started: 2015
       duration: (2015 - Present)
-      description: Designed multiple websites to customers specifications, including:<ul><li style="list-style-type:square"><a href="http://www.timbermoose.com" >Timbermoose</a> - largest log cabin in the US - Featured on NatGeo</li><li style="list-style-type:square"><a href="http://www.Martincasaus.com" >Martincasaus</a> - Professional wrestler</li><li style="list-style-type:square"><a href="http://www.Starapparel.com" >Starapparel</a> - Hawiian sports wear vendor</li><li style="list-style-type:square">Operated bitcoin mining website that garnered over 3K in profits in two months. Flipped several others earning ~5.5k in profit</li><li style="list-style-type:square">Developed and Published Android Apps</li></ul>
+      description: Designed multiple websites to customers specifications, including:<ul><li style="list-style-type:square"><a href="http://www.timbermoose.com" >Timbermoose</a> - largest log cabin in the US - Featured on NatGeo</li><li style="list-style-type:square"><a href="http://www.Martincasaus.com" >Martincasaus</a> - Professional wrestler</li><li style="list-style-type:square"><a href="http://www.Starapparel.com" >Starapparel</a> - Hawiian sports wear vendor</li></ul><br>Operated bitcoin mining website that garnered over 3K in profits in two months. Flipped several others earning ~5.5k in profit</br><br>Developed and Published Android Apps</br>
     - work4:
       company: Entrepreneur
       location: Provo, Utah
       title: Owner
       started: 2014
       duration: (2014 - Present)
-      description: I have bought and sold several websites and Android apps, netting me over $4,500. I am currently working on several Android application ideas, the current focus being a dinner planning app that integrates Firebase for authentication, database, analytics and crash/bug reporting. I have one Android app currently on the Play store with several others made.
+      description: <br>I have bought and sold several websites and Android apps, netting over $4,500.</br><br>Currently working on several Android applications, the current focus being a dinner planning app .</br><br>Currently have one app on the Play store with several others made.</br>
     - work5:
       company: Vantage Controls
       location: Orem, Utah
@@ -96,10 +96,10 @@ author:
       proficiency: Professional
     - language3:
       name: Italian
-      proficiency: Limit
+      proficiency: Limited
     - language4:
       name: French
-      proficiency: Limit
+      proficiency: Limited
 
   programmingSkills:
     - skill1:
