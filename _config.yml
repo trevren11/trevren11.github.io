@@ -33,7 +33,7 @@ author:
       title: Software Engineer Intern in Test
       started: 2016
       duration: (2016 - 2016)
-      description: Write software tests for Andriod and iOS platforms.
+      description: <p> Automated tests for Android, iOS and web using Espresso, EarlGrey and Ruby. <p> Manually regressed 1200+ test cases. <p> Designed and coded open source ruby gem
     - work2:
       company: Brigham Young University
       location: Provo, Utah
