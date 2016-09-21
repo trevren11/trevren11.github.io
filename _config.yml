@@ -40,14 +40,14 @@ author:
       title: Computer Programmer
       started: 2014
       duration: (2014 - Present)
-      description: <p> Maintained and updated code for language learning, vocal recognition and video viewing software.</p><p>Constructed inventory system from ground up.</p><p>Managed proprietary video streaming services.</p>
+      description: <br> Maintained and updated code for language learning, vocal recognition and video viewing software.</br><br>Constructed inventory system from ground up.</br><br>Managed proprietary video streaming services.</br>
     - work3:
       company: Freelance Developer
       location: Provo, Utah
       title: Website Designer
       started: 2015
       duration: (2015 - Present)
-      description: Build professional websites for various clients. Past clients/projects include making a booking and reservation website for the largest log cabin in the US a landing page for a professional wrestler a reception rental website and a landing page for a clothing store.
+      description: Designed multiple websites to customers specifications, including:<ul><li style="list-style-type:square"><a href="http://www.timbermoose.com" >Timbermoose</a> - largest log cabin in the US - Featured on NatGeo</li><li style="list-style-type:square"><a href="http://www.Martincasaus.com" >Martincasaus</a> - Professional wrestler</li><li style="list-style-type:square"><a href="http://www.Starapparel.com" >Starapparel</a> - Hawiian sports wear vendor</li><li style="list-style-type:square">Operated bitcoin mining website that garnered over 3K in profits in two months. Flipped several others earning ~5.5k in profit</li><li style="list-style-type:square">Developed and Published Android Apps</li></ul>
     - work4:
       company: Entrepreneur
       location: Provo, Utah
@@ -61,14 +61,14 @@ author:
       title: Driver Developer Intern
       started: 2015
       duration: (2015 - 2015)
-      description: Developed and tested drivers for luxury home automation system. Programmed in PAWN/Small. Designed exception handling concept.
+      description: <br>Co-authored error handling system in PAWN. </br><br>Formulated drivers for luxury homes.</br><br>Discovered workaround now used for on updated systems to handle faster processors.</br>
     - work6:
       company: EdgeCreek
       location: Orem, Utah
       title: Accountant
       started: 2014
       duration: (2014 - 2014)
-      description: Managed the accounts for ~15 properties as well as the personal finances of the billionaire CEO. Accounts payable and credit card responsibilities.
+      description: <br>Managed the accounts for ~15 properties as well as the personal finances of the billionaire CEO. </br><br>Accounts payable and credit card responsibilities.</br>
     - work7:
       company: Costco Wholesale
       location: Des Moines, Iowa
@@ -85,7 +85,7 @@ author:
       major: Computer Science - With Honors
       started: 2011
       duration: (2011 - 2017)
-      description: Data Structures, Digital Systems, Digital Logic, Probability Theory, Circuits, CAD
+      description: Android Development, UI design, Computer Systems, Digital Systems, Data Structures, Digital Logic, Probability Theory, Circuits, CAD 
 
   languages:
     - language1:
