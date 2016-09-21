@@ -175,6 +175,7 @@ hr {
     position: relative;
     -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+    width:100%;
 }
 
 .timeline > li > .timeline-panel:before {
